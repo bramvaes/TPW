@@ -1,0 +1,533 @@
+701	0	0	0	0	0	!AFR-000
+701	330	0	0	0	0	!AFR-000
+101	0	0	0	0	714	!NAM-NWA		
+101	0.773	78.98	30.83	0.18	714	!NAM-NWA	C1n o	DeMets et al. 2015
+101	1.775	79.08	33.75	0.41	714	!NAM-NWA	C2n y	DeMets et al. 2015
+101	2.595	79.18	36.04	0.58	714	!NAM-NWA	C2An.1n y	DeMets et al. 2015
+101	3.596	79.34	39.09	0.82	714	!NAM-NWA	C2An.3n o	DeMets et al. 2015
+101	4.187	79.44	40.65	0.95	714	!NAM-NWA	C3n.1n y	DeMets et al. 2015
+101	5.235	79.64	43.15	1.19	714	!NAM-NWA	C3n.4n o	DeMets et al. 2015
+101	6.023	79.80	44.95	1.37	714	!NAM-NWA	C3An.1n y	DeMets et al. 2015
+101	6.727	79.94	46.53	1.53	714	!NAM-NWA	C3An.2n o	DeMets et al. 2015
+101	7.537	80.08	48.36	1.74	714	!NAM-NWA	C4n.1n y	DeMets et al. 2015
+101	8.125	80.17	49.71	1.89	714	!NAM-NWA	C4n.2n o	DeMets et al. 2015
+101	9.105	80.29	51.91	2.16	714	!NAM-NWA	C4An o	DeMets et al. 2015
+101	9.786	80.35	53.43	2.34	714	!NAM-NWA	C5n.1n y	DeMets et al. 2015
+101	11.056	80.45	55.10	2.68	714	!NAM-NWA	C5n.2n o	DeMets et al. 2015
+101	12.474	80.44	55.21	3.07	714	!NAM-NWA	C5An.2n o	DeMets et al. 2015
+101	13.739	80.33	53.00	3.45	714	!NAM-NWA	C5ACn y	DeMets et al. 2015
+101	14.613	80.21	50.15	3.74	714	!NAM-NWA	C5ADn o	DeMets et al. 2015
+101	15.974	80.00	44.01	4.21	714	!NAM-NWA	C5Cn.1n y	DeMets et al. 2015
+101	17.235	79.78	38.35	4.64	714	!NAM-NWA	C5Dn y	DeMets et al. 2015
+101	18.007	79.64	34.69	4.93	714	!NAM-NWA	C5En y	DeMets et al. 2015
+101	18.636	79.51	31.58	5.17	714	!NAM-NWA	C6n y	DeMets et al. 2015
+101	19.535	79.24	26.05	5.51	714	!NAM-NWA	C6n o	DeMets et al. 2015
+101	25.10	79.34	28.56	7.04	714	!NAM-NWA	C8n.1n y	Müller et al. 1999
+101	33.21	75.99	5.98	9.767	714	!NAM-NWA	C13n y	Müller et al. 1999
+101	38.40	74.54	0.19	11.918	714	!NAM-NWA	C18n.1n y	Müller et al. 1999
+101	42.20	74.38	-2.80	13.56	714	!NAM-NWA	C20n y	Müller et al. 2008; refers to Müller et al. 1999
+101	46.24	74.23	-5.01	15.106	714	!NAM-NWA	C21n y	Müller et al. 1999
+101	48.88	75.29	-4.26	15.95	714	!NAM-NWA	C22n y	Müller et al. 2008; refers to Müller et al. 1999
+101	52.54	77.34	-1.61	16.963	714	!NAM-NWA	C24n.1n y	Müller et al. 1999
+101	57.10	80.64	6.57	17.890	714	!NAM-NWA	C25n y	Müller et al. 1999
+101	66.38	82.74	2.93	20.840	714	!NAM-NWA	C30n y	Müller et al. 1999
+101	71.45	81.35	-8.32	22.753	714	!NAM-NWA	C32n.1n y	Müller et al. 1999
+101	74.20	81.11	-10.64	23.74	714	!NAM-NWA	C33n y	Müller et al. 2008; refers to Müller et al. 1999
+101	79.90	78.64	-18.16	26.981	714	!NAM-NWA	C33n o	Müller et al. 1999
+101	83.65	76.81	-20.59	29.506	714	!NAM-NWA	C34n y	Müller et al. 1999
+101	92	71.1972	-25.408	36.4132	714	!NAM-NWA	Q1	Gürer et al. 2022
+101	108	68.0788	-17.9612	46.438	714	!NAM-NWA	Q2	Gürer et al. 2022
+101	121.40	66.12	-20.05	54.41	714	!NAM-NWA	M0r o	Gürer et al. 2022
+101	130.30	66.77	-18.52	57.58	714	!NAM-NWA	M10n y	Gürer et al. 2022
+101	139.65	66.23	-18.33	59.70	714	!NAM-NWA	M16r y	Gürer et al. 2022
+101	146.58	66.10	-17.85	62.12	714	!NAM-NWA	M21r y	Gürer et al. 2022
+101	153.23	67.10	-15.90	64.70	714	!NAM-NWA	M25r y	Gürer et al. 2022
+101	170.00	65.87	-15.08	71.93	714	!NAM-NWA	BSMA	van Hinsbergen et al. (2020)
+101	174.70	65.40	-15.39	74.43	714	!NAM-NWA	An E	van Hinsbergen et al. (2020)
+101	195	64.31	-15.19	77.09	714	!NAM-NWA		Sahabi et al. (2004)
+101	203	64.28	-14.74	78.05	714	!NAM-NWA		Labails et al. 2010, https://doi.org/10.1016/j.epsl.2010.06.024
+101	330	64.28	-14.74	78.05	714	!NAM-NWA		
+102	0	0	0	0	101	!GRN-NAM		
+102	33.214	0	0	0	101	!GRN-NAM	C13n y	Gaina & Jakob (2019)
+102	40.073	62.50	-28.00	-1.25	101	!GRN-NAM	C18n.2n o	Gaina & Jakob (2019)
+102	43.450	63.71	-80.08	-1.81	101	!GRN-NAM	C20n o	Gaina & Jakob (2019)
+102	47.760	62.60	-99.72	-2.81	101	!GRN-NAM	C21n o	Gaina & Jakob (2019)
+102	49.666	61.98	-97.65	-3.33	101	!GRN-NAM	C22n o	Gaina & Jakob (2019)
+102	53.900	41.47	-119.03	-3.61	101	!GRN-NAM	C24n.3n o	Gaina & Jakob (2019)
+102	57.101	22.01	-142.50	-3.02	101	!GRN-NAM	C25n y	Gaina & Jakob (2019)
+102	62.278	39.18	-138.41	-4.35	101	!GRN-NAM	C27n y	Gaina & Jakob (2019)
+102	69.27	52.86	-136.40	-6.28	101	!GRN-NAM	C31n o	Torsvik et al. (2008a)
+102	83.65	65.30	-122.45	-11.00	101	!GRN-NAM	C34n y	Roest & Srivastava 1989, https://doi.org/10.1130/0091-7613(1989)017<1000:SFSITL>2.3.CO;2
+102	92	66.60	-119.48	-12.20	101	!GRN-NAM		Roest & Srivastava 1989, https://doi.org/10.1130/0091-7613(1989)017<1000:SFSITL>2.3.CO;2
+102	105	67.08	-118.96	-12.99	101	!GRN-NAM		Roest & Srivastava 1989, https://doi.org/10.1130/0091-7613(1989)017<1000:SFSITL>2.3.CO;2
+102	121.40	67.50	-118.48	-13.78	101	!GRN-NAM	M0r o	Roest & Srivastava 1989, https://doi.org/10.1130/0091-7613(1989)017<1000:SFSITL>2.3.CO;2
+102	125	67.50	-118.48	-14.00	101	!GRN-NAM		Torsvik et al. (2012); fit
+102	330	67.50	-118.48	-14.00	101	!GRN-NAM		
+201	0	0	0	0	701	!SAM-AFR		
+201	0.773	60.35	321.26	0.221	701	!SAM-AFR	C1n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	1.775	60.60	320.99	0.507	701	!SAM-AFR	C2n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	2.595	60.77	320.80	0.741	701	!SAM-AFR	C2An.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	3.596	60.94	320.60	1.046	701	!SAM-AFR	C2An.3n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	4.187	61.01	320.52	1.227	701	!SAM-AFR	C3n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	5.235	61.09	320.41	1.550	701	!SAM-AFR	C3n.4n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	6.023	61.14	320.35	1.798	701	!SAM-AFR	C3An.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	6.727	61.17	320.31	2.030	701	!SAM-AFR	C3An.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	7.537	61.19	320.28	2.312	701	!SAM-AFR	C4.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	8.125	61.20	320.26	2.521	701	!SAM-AFR	C4n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	9.105	61.21	320.26	2.881	701	!SAM-AFR	C4An o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	9.786	61.21	320.27	3.131	701	!SAM-AFR	C5n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	11.056	61.16	320.35	3.621	701	!SAM-AFR	C5n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	12.474	61.05	320.52	4.221	701	!SAM-AFR	C5An.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	13.739	60.89	320.74	4.773	701	!SAM-AFR	C5ACn o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	14.613	60.76	320.92	5.154	701	!SAM-AFR	C5ADn o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	15.974	60.57	321.19	5.752	701	!SAM-AFR	C5Cn.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	17.235	60.39	321.44	6.313	701	!SAM-AFR	C5Dn y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	18.007	60.28	321.60	6.692	701	!SAM-AFR	C5En y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	18.636	60.17	321.74	7.019	701	!SAM-AFR	C6n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	19.535	60.02	321.96	7.485	701	!SAM-AFR	C6n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	20.765	59.82	322.20	7.960	701	!SAM-AFR	C6An.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	21.806	59.54	322.52	8.463	701	!SAM-AFR	C6Bn.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	24.025	58.79	323.29	9.432	701	!SAM-AFR	C7n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	24.459	58.60	323.48	9.649	701	!SAM-AFR	C7n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	25.099	58.38	323.71	9.913	701	!SAM-AFR	C8n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	25.987	58.07	324.02	10.287	701	!SAM-AFR	C8n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	26.420	57.93	324.17	10.469	701	!SAM-AFR	C9n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	27.439	57.64	324.49	10.897	701	!SAM-AFR	C9n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	27.869	57.55	324.61	11.073	701	!SAM-AFR	C10n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	28.278	57.47	324.71	11.249	701	!SAM-AFR	C10n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	29.183	57.35	324.90	11.629	701	!SAM-AFR	C11n.1n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	29.970	57.28	325.03	11.959	701	!SAM-AFR	C11n.2n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	30.591	57.23	325.14	12.220	701	!SAM-AFR	C12n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	30.977	57.20	325.21	12.407	701	!SAM-AFR	C12n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	33.214	57.06	325.53	13.317	701	!SAM-AFR	C13n y	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	33.726	57.02	325.62	13.551	701	!SAM-AFR	C13n o	DeMets & Merkouriev, 2019, doi: 10.1093/gji/ggz087
+201	38.398	57.10	-33.00	15.912	701	!SAM-AFR	C18n.1n y	Müller et al. (1999)
+201	46.235	56.95	-31.15	19.107	701	!SAM-AFR	C21n y	Müller et al. (1999)
+201	52.540	58.89	-31.18	21.380	701	!SAM-AFR	C24n.1n y	Müller et al. (1999)
+201	57.101	61.35	-32.21	22.273	701	!SAM-AFR	C25n y	Müller et al. (1999)
+201	66.380	63.88	-33.61	24.755	701	!SAM-AFR	C30n y	Müller et al. (1999)
+201	71.851	63.41	-33.38	26.573	701	!SAM-AFR	C32n.2n y	Müller et al. (1999)
+201	79.900	62.92	-34.36	30.992	701	!SAM-AFR	C33n o	Müller et al. (1999)
+201	83.650	61.88	-34.26	33.512	701	!SAM-AFR	C34n y	Müller et al. (1999)
+201	92.00	60.84	-36.50	38.58	701	!SAM-AFR	Q1	Granot & Dyment (2015)
+201	108.00	62.17	-40.17	47.35	701	!SAM-AFR	Q2	Granot & Dyment (2015)
+201	121.40	51.40	-35.00	52.60	701	!SAM-AFR	M1n y	Gaina et al. (2013)
+201	126.514	50.60	-33.80	54.20	701	!SAM-AFR	M5n y	Gaina et al. (2013)
+201	128.951	50.10	-33.60	54.98	701	!SAM-AFR	M8n y	Gaina et al. (2013)
+201	130.297	49.00	-33.30	55.66	701	!SAM-AFR	M10n y	Gaina et al. (2013)
+201	133.565	50.00	-32.50	55.08	701	!SAM-AFR	M11r.1n y	Torsvik et al. (2009); breakup fit, original Euler pole from Nürnberg & Müller (1991)
+201	330	50.00	-32.50	55.08	701	!SAM-AFR		
+202	0	0	0	0	201	!PAR-SAM		
+202	126.514	0	0	0	201	!PAR-SAM	M5n y	Torsvik et al. (2009)
+202	126.514	50.6	-33.8	54.2	701	!PAR-AFR	M5n y	cross-over of Torsvik et al. (2009) changed to match with EP of Gaina et al. (2013)
+202	133.565	47.5	-33.3	56.0	701	!PAR-AFR	M11r.1n y	Torsvik et al. (2009)
+202	150	47.5	-33.3	56.2	701	!PAR-AFR		Torsvik et al. (2009); breakup fit
+202	330	47.5	-33.3	56.2	701	!PAR-AFR		
+290	0	0	0	0	201	!COL-SAM		
+290	126.514	0	0	0	201	!COL-SAM	M5n y	Torsvik et al. (2009)
+290	126.514	50.6	-33.8	54.2	701	!COL-AFR	M5n y	cross-over of Torsvik et al. (2009) changed to match with EP of Gaina et al. (2013)
+290	133.565	47.5	-33.3	57.0	701	!COL-AFR	M11r.1n y	Torsvik et al. (2009)
+290	150	47.5	-33.3	57.3	701	!COL-AFR		Torsvik et al. (2009); breakup fit
+290	330	47.5	-33.3	57.3	701	!COL-AFR		
+291	0	0	0	0	201	!PAT-SAM		
+291	126.514	0	0	0	201	!PAT-SAM	M5n y	Torsvik et al. (2009)
+291	126.514	50.6	-33.8	54.2	701	!PAT-SAM	M5n y	cross-over of Torsvik et al. (2009) changed to match with EP of Gaina et al. (2013)
+291	133.565	47.5	-33.3	57.0	701	!PAT-SAM	M11r.1n y	Torsvik et al. (2009)
+291	150	47.5	-33.3	58.0	701	!PAT-SAM		Torsvik et al. (2008b)
+291	160	47.5	-33.3	58.0	701	!PAT-SAM		Torsvik et al. (2008b)
+291	190	47.5	-33.3	63.0	701	!PAT-SAM		Torsvik et al. (2008b)
+291	330	47.5	-33.3	63.0	701	!PAT-SAM		
+301	0	0	0	0	101	!EUR-NAM		
+301	0.773	62.51	138.27	-0.16	101	!EUR-NAM	C1n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	1.775	62.69	138.05	-0.37	101	!EUR-NAM	C2n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	2.595	62.87	137.87	-0.54	101	!EUR-NAM	C2An.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	3.596	63.13	137.63	-0.76	101	!EUR-NAM	C2An.3n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	4.187	63.31	137.47	-0.88	101	!EUR-NAM	C3n.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	5.235	63.65	137.18	-1.10	101	!EUR-NAM	C3n.4n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	6.023	63.65	136.96	-1.27	101	!EUR-NAM	C3An.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	6.727	64.22	136.76	-1.43	101	!EUR-NAM	C3An.2n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	7.537	64.54	136.55	-1.63	101	!EUR-NAM	C4n.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	8.125	64.78	136.38	-1.78	101	!EUR-NAM	C4n.2n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	9.105	65.21	136.06	-2.05	101	!EUR-NAM	C4An o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	9.786	65.53	135.84	-2.25	101	!EUR-NAM	C5n.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	11.056	66.08	135.46	-2.60	101	!EUR-NAM	C5n.2n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	12.474	66.55	135.14	-2.98	101	!EUR-NAM	C5An.2n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	13.739	66.94	134.85	-3.31	101	!EUR-NAM	C5ACn y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	14.613	67.31	134.58	-3.57	101	!EUR-NAM	C5ADn o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	15.974	67.91	134.13	-3.98	101	!EUR-NAM	C5Cn.1n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	17.235	68.44	133.70	-4.36	101	!EUR-NAM	C5Dn y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	18.007	68.78	133.42	-4.60	101	!EUR-NAM	C5En y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	18.636	69.06	133.18	-4.81	101	!EUR-NAM	C6n y	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	19.535	69.45	132.87	-5.09	101	!EUR-NAM	C6n o	DeMets et al. 2015, doi: 10.1093/gji/ggv277
+301	33.47	68.20	131.64	-7.600	101	!EUR-NAM	C13n m	Vissers & Meijer (2012b)
+301	39.24	67.33	130.07	-9.195	101	!EUR-NAM	C18n m	Vissers & Meijer (2012b)
+301	47.00	66.15	135.40	-10.870	101	!EUR-NAM	C21n m	Srivastava & Roest (1996); preferred Euler pole of Vissers & Meijer (2012b)
+301	53.58	63.89	139.27	-12.890	101	!EUR-NAM	C24n.3n m	Srivastava & Roest (1996); preferred Euler pole of Vissers & Meijer (2012b)
+301	57.38	58.93	139.88	-14.001	101	!EUR-NAM	C25n m	Vissers & Meijer (2012b)
+301	67.28	58.37	145.00	-16.186	101	!EUR-NAM	C30n m	Vissers & Meijer (2012b)
+301	79.90	66.47	145.72	-19.077	101	!EUR-NAM	C33n o	Vissers & Meijer (2012b)
+301	83.65	66.54	148.91	-19.70	101	!EUR-NAM	C34n y	Srivastava & Roest (1989); preferred Euler pole of Vissers & Meijer (2012b)
+301	121.40	68.54	151.25	-22.912	101	!EUR-NAM	M0r o	Vissers & Meijer (2012a)
+301	126.51	68.83	151.75	-23.176	101	!EUR-NAM	M3r o	Vissers & Meijer (2012a)
+301	153.44	68.99	154.75	-23.20	101	!EUR-NAM	M25r o	Vissers & Meijer (2012a)
+301	190	68.99	154.75	-23.64	101	!EUR-NAM		Torsvik et al. (2008a)
+301	220	78.64	161.9	-31.0	101	!EUR-NAM		Alvey (2009); fit in Pangea as in Torsvik et al. (2012)
+301	330	78.64	161.9	-31.0	101	!EUR-NAM		
+304	0	0	0	0	301	!SPN-EUR		
+304	19.09	0.00	0.00	0	301	!SPN-EUR	C6n m	Vissers & Meijer (2012b)
+304	33.47	-31.77	161.02	1.302	301	!SPN-EUR	C13n m	Vissers & Meijer (2012b)
+304	39.24	-14.10	140.10	1.16	301	!SPN-EUR	C18n m	Vissers & Meijer (2012b)
+304	47.00	-30.59	158.88	2.81	301	!SPN-EUR	C21n m	Vissers & Meijer (2012b)
+304	53.58	-29.15	160.91	3.591	301	!SPN-EUR	C24n.3n m	Vissers & Meijer (2012b)
+304	57.38	-28.68	159.71	3.941	301	!SPN-EUR	C25n m	Vissers & Meijer (2012b)
+304	67.28	-35.27	165.43	6.061	301	!SPN-EUR	C30n m	Vissers & Meijer (2012b)
+304	79.90	-37.67	166.88	7.597	301	!SPN-EUR	C33n o	Vissers & Meijer (2012a)
+304	83.65	-39.36	170.34	9.800	301	!SPN-EUR	C34n y	Vissers & Meijer (2012a)
+304	118.00	-40.53	170.81	12.283	301	!SPN-EUR		Vissers & Meijer (2012a)
+304	121.40	-43.79	173.32	45.248	301	!SPN-EUR	M0r o	Vissers & Meijer (2012a)
+304	121.40	64.71	-18.94	-58.110	101	!SPN-NAM	M0r o	Vissers et al. (2013)
+304	127.02	64.72	-18.01	-60.973	101	!SPN-NAM	M5n m	Vissers et al. (2013)
+304	133.44	64.90	-17.49	-62.353	101	!SPN-NAM	M11r m	Vissers et al. (2013)
+304	141.12	65.29	-17.06	-63.932	101	!SPN-NAM	M17r m	Vissers et al. (2013)
+304	145.38	64.96	-17.49	-65.902	101	!SPN-NAM	M20r m	Vissers et al. (2013)
+304	170	-69.14	169.49	58.94	101	!SPN-NAM	BSMA	Vissers et al. (2013)
+304	190	-65.81	166.64	65.363	101	!SPN-NAM		Vissers et al. (2013)
+304	203	65.72	-12.82	-66.32	101	!SPN-NAM		Srivastava & Verhoef (1992)
+304	330	65.72	-12.82	-66.32	101	!SPN-NAM		
+501	0	0	0	0	709	!IND-SOM		
+501	0.773	23.39	32.50	-0.318	709	!IND-SOM	C1n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	1.775	23.91	34.01	-0.730	709	!IND-SOM	C2n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	2.595	23.37	33.35	-1.064	709	!IND-SOM	C2An.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	3.596	21.33	37.06	-1.631	709	!IND-SOM	C2An.3n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	4.187	23.63	31.27	-1.693	709	!IND-SOM	C3n.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	5.235	22.69	34.14	-2.231	709	!IND-SOM	C3n.4n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	6.023	23.72	31.15	-2.399	709	!IND-SOM	C3An.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	6.727	23.05	32.94	-2.757	709	!IND-SOM	C3An.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	7.537	23.27	32.36	-3.024	709	!IND-SOM	C4.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	8.125	22.85	32.44	-3.312	709	!IND-SOM	C4n.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	9.105	23.70	30.97	-3.607	709	!IND-SOM	C4An o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	9.786	23.12	31.42	-3.928	709	!IND-SOM	C5n.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	11.056	23.51	31.55	-4.438	709	!IND-SOM	C5n.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	12.474	24.13	29.73	-4.858	709	!IND-SOM	C5An.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	13.739	23.05	32.27	-5.653	709	!IND-SOM	C5ACn o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	14.613	24.39	29.96	-5.800	709	!IND-SOM	C5ADn o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	15.974	24.74	29.83	-6.410	709	!IND-SOM	C5Cn.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	17.235	24.52	30.87	-7.195	709	!IND-SOM	C5Dn y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	18.007	24.98	30.59	-7.611	709	!IND-SOM	C5Eny	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	18.636	24.91	31.19	-8.091	709	!IND-SOM	C6n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	19.535	25.41	30.47	-8.405	709	!IND-SOM	C6n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	21.691	26.61	29.29	-8.971	709	!IND-SOM	C6AAr.2n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	25.099	27.54	30.30	-9.992	709	!IND-SOM	C8n.1 y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	29.183	24.20	37.13	-13.122	709	!IND-SOM	C11n.1 y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	33.214	24.31	39.55	-14.828	709	!IND-SOM	C13n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	38.398	22.74	42.86	-17.970	709	!IND-SOM	C18n.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	40.073	22.82	43.08	-18.608	709	!IND-SOM	C18n.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	41.030	23.05	42.72	-18.918	709	!IND-SOM	C19n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	42.196	23.40	42.34	-19.221	709	!IND-SOM	C20n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	43.450	22.72	42.71	-20.126	709	!IND-SOM	C20n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	46.235	21.97	42.42	-21.365	709	!IND-SOM	C21n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	47.760	21.96	40.93	-21.919	709	!IND-SOM	C21n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	48.878	19.88	41.63	-24.571	709	!IND-SOM	C22n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	49.666	19.35	41.39	-25.678	709	!IND-SOM	C22n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	50.767	19.67	39.35	-26.352	709	!IND-SOM	C23n.1 y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	51.047	19.25	39.52	-27.186	709	!IND-SOM	C23n.2n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	51.724	19.19	38.31	-27.835	709	!IND-SOM	C23n.2n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	52.540	17.57	38.99	-31.503	709	!IND-SOM	C24n.1n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	52.930	17.78	38.54	-31.855	709	!IND-SOM	C24n.1r y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	53.250	18.67	36.90	-30.509	709	!IND-SOM	C24n.3n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	53.900	18.45	36.34	-30.980	709	!IND-SOM	C24n.3n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	57.101	21.99	26.32	-28.021	709	!IND-SOM	C25n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	57.656	21.58	26.36	-28.840	709	!IND-SOM	C25n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	58.969	20.94	25.92	-30.750	709	!IND-SOM	C26n y	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	59.237	20.63	26.11	-31.444	709	!IND-SOM	C26n o	DeMets & Merkouriev 2021 DOI: 10.1093/gji/ggab295
+501	59.237	3.900	73.470	3.411	511	!IND-CAP	C5Cn.1n y	Bull et al. (2010)
+501	83.650	3.900	73.470	3.411	511	!IND-CAP	C34n y	fixed to Capricorn plate
+501	83.650	21.21	20.07	-52.239	702	!IND-MAD	C34n y	cross-over to Madagascar, this study
+501	92	23.01	26.85	-54.29	702	!IND-MAD		Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	106	23.01	26.85	-55.79	702	!IND-MAD		Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	121.4	24.39	25.71	-54.54	702	!IND-MAD	M0r o	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	123.78	24.07	25.33	-54.75	702	!IND-MAD	M1n o	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	124.17	23.04	25.03	-55.73	702	!IND-MAD	M1r o	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	126.51	22.08	24.27	-56.61	702	!IND-MAD	M3r o	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	126.51	0.75	-171.00	85.20	802	!IND-ANT	M3r o	cross-over to Antarctica, this study
+501	128.95	1.29	-169.52	85.52	802	!IND-ANT	M8n y	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	129.6	1.45	-169.38	85.78	802	!IND-ANT	M9n y	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	136.657	2.79	-167.32	87.49	802	!IND-ANT	M14n y	Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50079
+501	160	3.68	-166	88.49	802	!IND-ANT		Gibbons et al 2013/ https://doi.org/10.1002/jgrb.50080
+501	330	2.79	-167.32	87.49	802	!IND-ANT		
+503	0	90	0	0	709	!ARB-SOM		
+503	2.6	23.75	25.39	-1.086	709	!ARA-SOM	C2An.1ny	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	3.6	23.76	25.47	-1.516	709	!ARA-SOM	C2An.3no	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	6.02	23.86	25.62	-2.538	709	!ARA-SOM	C3An.1ny	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	8.77	23.84	25.87	-3.762	709	!ARA-SOM	C4Any	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	11.06	24.2	25.79	-4.704	709	!ARA-SOM	C5n.2no	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	15.97	25.38	24.79	-6.73	709	!ARA-SOM	C5Cn.1ny	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	17.53	25.47	24.1	-7.284	709	!ARA-SOM	C5Dno	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	19.54	26.09	22.21	-7.877	709	!ARA-SOM	C6no	DeMets and Merkouriev, 2016, doi: 10.1093/gji/ggw276
+503	21	26.03	19.6	-7.98	709	!ARA-SOM		Fournier et al., 2010
+503	35	27.51	16.59	-8.3	709	!ARA-SOM		Fournier et al., 2010
+503	35	32.96	16.88	-8.09	715	!ARA-NEA		Fournier et al., 2010
+503	330	32.96	16.88	-8.09	715	!ARA-NEA		Fournier et al., 2010
+511	0	0	0	0	501	!CAP-IND		
+511	15.974	3.900	73.470	-3.411	501	!CAP-IND	C5Cn.1n y	Bull et al. (2010)
+511	59.237	3.900	73.470	-3.411	501	!CAP-IND	C26n o	fixed to Indian plate
+511	59.237	13.595	14.85	-38.377	802	!CAP-ANT	C26n o	cross-over to Antarctica, this study
+511	62.278	9.91	18.41	-43.59	802	!CAP-ANT	C27n y	Cande & Patriat (2015)
+511	63.537	9.31	17.92	-45.45	802	!CAP-ANT	C28n y	Cande & Patriat (2015)
+511	65.700	10.57	14.13	-47.84	802	!CAP-ANT	C29n o	Cande & Patriat (2015)
+511	68.351	10.56	12.37	-51.26	802	!CAP-ANT	C31n y	Cande & Patriat (2015)
+511	71.451	9.69	12.46	-54.21	802	!CAP-ANT	C32n.1n y	Cande & Patriat (2015)
+511	74.201	9.07	12.79	-56.56	802	!CAP-ANT	C33n y	Cande & Patriat (2015)
+511	79.900	10.52	9.73	-60.03	802	!CAP-ANT	C33n o	Cande & Patriat (2015)
+511	83.650	9.49	10.56	-63.88	802	!CAP-ANT	C34n y	Cande & Patriat (2015)
+601	0	0	0	0	301	!NCH-SIB		
+601	160	0	0	0	301	!NCH-SIB		North China fixed to Siberia (e.g., Torsvik & Cocks, 2017)
+602	0	0	0	0	601	!SCH-NCH		
+602	5	6.5	101.4	0.8	601	!SCH-NCH		
+602	10	6.5	101.4	1.6	601	!SCH-NCH		Replumaz & Tapponnier (2003)
+602	160	6.5	101.4	1.6	601	!SCH-NCH		
+702	0	0	0	0	709	!MAD-SOM		
+702	123	0	0	0	709	!MAD-SOM		Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	124.717	2.08	-42.04	0.38	709	!MAD-SOM	M3n o	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	126.514	2.08	-42.04	0.96	709	!MAD-SOM	M5n y	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	132.139	1.36	-44.40	2.32	709	!MAD-SOM	M10Nn.3n o	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	134.74	1.64	-43.48	3.34	709	!MAD-SOM	M12n o	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	141.752	1.98	-42.89	5.67	709	!MAD-SOM	M18n y	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	154.564	-6.35	-33.38	9.98	709	!MAD-SOM	M26n.4n o	Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	170	-14.44	-21.93	15.3	709	!MAD-SOM		Gaina et al., 2013, doi: 10.1016/j.tecto.2013.05.037
+702	330	-14.44	-21.93	15.3	709	!MAD-SOM		
+707	0	0	0	0	714	!MES-NWA		
+707	35	0	0	0	714	!MES-NWA		van Hinsbergen et al, 2020, doi: 10.1016/j.gr.2019.07.009
+707	50	35.61	9.18	-0.97	714	!MES-NWA		van Hinsbergen et al, 2020, doi: 10.1016/j.gr.2019.07.009
+707	330	35.61	9.18	-0.97	714	!MES-NWA		
+709	0	0	0	0	701	!SOM-AFR		
+709	0.773	-40.12	3.22	0.04	701	!SOM-AFR	C1n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	1.775	-43.11	4.70	0.08	701	!SOM-AFR	C2n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	2.595	-44.71	5.23	0.12	701	!SOM-AFR	C2An.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	3.596	-45.44	5.06	0.17	701	!SOM-AFR	C2An.3n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	4.187	-45.41	4.53	0.20	701	!SOM-AFR	C3n.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	5.235	-45.40	4.20	0.24	701	!SOM-AFR	C3n.4n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	6.023	-45.77	5.46	0.25	701	!SOM-AFR	C3An.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	6.727	-45.81	6.76	0.28	701	!SOM-AFR	C3An.2n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	7.537	-45.44	7.86	0.31	701	!SOM-AFR	C4.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	8.125	-45.12	8.63	0.33	701	!SOM-AFR	C4n.2n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	9.105	-44.79	10.57	0.38	701	!SOM-AFR	C4An o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	9.786	-44.63	11.78	0.42	701	!SOM-AFR	C5n.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	11.056	-44.20	10.85	0.46	701	!SOM-AFR	C5n.2n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	12.474	-43.75	9.21	0.52	701	!SOM-AFR	C5An.2n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	13.739	-43.80	9.22	0.60	701	!SOM-AFR	C5ACn o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	14.613	-44.10	9.91	0.66	701	!SOM-AFR	C5ADn o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	15.974	-44.83	11.28	0.76	701	!SOM-AFR	C5Cn.1n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	18.636	-43.80	14.60	0.90	701	!SOM-AFR	C6n y	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	19.535	-44.39	7.68	0.81	701	!SOM-AFR	C6n o	DeMets & Merkouriev, 2016, doi: 10.1093/gji/ggw276
+709	330	-44.39	7.68	0.81	701	!SOM-AFR		
+714	0	0	0	0	701	!NWA-AFR		
+714	120	0	0	0	701	!NWA-AFR		Torsvik et al. (2009)
+714	133.565	33.65	26.02	2.34	701	!NWA-AFR	M11r.1n y	Torsvik et al. (2009)
+714	330	33.65	26.02	2.34	701	!NWA-AFR		Torsvik et al. (2009)
+715	0	0	0	0	701	!NEA-AFR		
+715	83.65	0	0	0	701	!NEA-AFR	C34n y	Torsvik et al. (2004)
+715	121.40	40.50	-61.40	-0.70	701	!NEA-AFR	M1n y	Torsvik et al. (2004)
+715	330	40.50	-61.40	-0.70	701	!NEA-AFR		
+801	0	0	0	0	802	!AUS-ANT		
+801	2.6	-11.164	-139.7	1.655	802	!AUS-ANT	C2An.1n y	Cande & Stock (2004)
+801	6.02	-11.591	-139.23	3.83	802	!AUS-ANT	C3An.1n y	Cande & Stock (2004)
+801	11.06	-11.896	-142.058	6.79	802	!AUS-ANT	C5n.2n o	Cande & Stock (2004)
+801	19.72	-13.393	-145.63	12.051	802	!AUS-ANT	C6n o	Cande & Stock (2004)
+801	25.99	-13.805	-146.444	15.919	802	!AUS-ANT	C8n.2n o	Cande & Stock (2004)
+801	28.28	-13.58	-146.016	17.319	802	!AUS-ANT	C10n.2n o	Cande & Stock (2004)
+801	30.98	-13.396	-145.623	18.89	802	!AUS-ANT	C12n o	Cande & Stock (2004)
+801	33.73	-13.451	-145.623	20.495	802	!AUS-ANT	C13n o	Cande & Stock (2004)
+801	38.08	-14.65	-146.525	22.882	802	!AUS-ANT	C17n.3n o	Cande & Stock (2004)
+801	43.45	14.920	32.500	-24.51	802	!AUS-ANT	C20n o	Whittaker et al (2007); Whittaker et al. (2013)
+801	46.24	13.420	33.830	-24.62	802	!AUS-ANT	C21n y	Whittaker et al. (2013)
+801	53.9	10.480	35.170	-25.24	802	!AUS-ANT	C24n.3n o	Whittaker et al. (2013)
+801	62.28	9.220	35.420	-25.43	802	!AUS-ANT	C27n y	Whittaker et al. (2013)
+801	69.27	7.89	35.75	-25.61	802	!AUS-ANT	C31n o	Whittaker et al. (2013)
+801	71.69	6.67	36.14	-25.75	802	!AUS-ANT	C32n.1n y	Whittaker et al. (2013)
+801	79.9	4.53	36.64	-26.13	802	!AUS-ANT	C33n o	Whittaker et al. (2013)
+801	83.65	1.02	37.28	-26.62	802	!AUS-ANT	C34n y	Williams et al. (2011); Whittaker et al. (2013)
+801	136.657	-3.91	37.9	-30.86	802	!AUS-ANT		Williams et al. (2011); Whittaker et al. (2013)
+801	330	-3.91	37.9	-30.86	802	!AUS-ANT		
+802	0	0	0	0	701	!ANT-AFR		DeMets et al., 2021 10.1093/gji/ggab107
+802	0.773	-5.06	326.72	0.111	701	!ANT-AFR	C1n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	1.775	-8.09	328.70	0.257	701	!ANT-AFR	C2n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	2.595	-10.37	330.15	0.376	701	!ANT-AFR	C2An.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	3.596	-11.98	331.20	0.523	701	!ANT-AFR	C2An.3n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	4.187	-11.72	331.16	0.609	701	!ANT-AFR	C3n.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	5.235	-9.98	330.41	0.755	701	!ANT-AFR	C3n.4n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	6.023	-8.62	329.85	0.863	701	!ANT-AFR	C3An.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	6.727	-7.62	329.51	0.958	701	!ANT-AFR	C3An.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	7.537	-7.00	329.45	1.072	701	!ANT-AFR	C4.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	8.125	-6.73	329.52	1.158	701	!ANT-AFR	C4n.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	9.105	-6.41	329.72	1.306	701	!ANT-AFR	C4An o	DeMets et al., 2021 10.1093/gji/ggab107
+802	9.786	-6.23	329.88	1.409	701	!ANT-AFR	C5n.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	11.056	-5.97	330.21	1.605	701	!ANT-AFR	C5n.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	12.474	-5.80	330.65	1.836	701	!ANT-AFR	C5An.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	13.739	-5.69	331.06	2.058	701	!ANT-AFR	C5ACn o	DeMets et al., 2021 10.1093/gji/ggab107
+802	14.613	-5.60	331.32	2.215	701	!ANT-AFR	C5ADn o	DeMets et al., 2021 10.1093/gji/ggab107
+802	15.974	-5.38	331.68	2.466	701	!ANT-AFR	C5Cn.1ny	DeMets et al., 2021 10.1093/gji/ggab107
+802	17.235	-4.87	331.77	2.698	701	!ANT-AFR	C5Dn y	DeMets et al., 2021 10.1093/gji/ggab107
+802	18.007	-4.19	331.56	2.833	701	!ANT-AFR	C5En y	DeMets et al., 2021 10.1093/gji/ggab107
+802	18.636	-2.97	330.88	2.931	701	!ANT-AFR	C6n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	19.535	-0.05	329.00	3.039	701	!ANT-AFR	C6n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	21.806	1.17	328.21	3.341	701	!ANT-AFR	C6Bn.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	23.212	1.24	328.14	3.608	701	!ANT-AFR	6Cn.3n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	24.124	1.23	328.12	3.820	701	!ANT-AFR	C7n.2n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	25.304	1.20	328.10	4.118	701	!ANT-AFR	C8n.2n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	27.439	1.17	328.09	4.429	701	!ANT-AFR	C9n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	28.141	1.15	328.08	4.619	701	!ANT-AFR	C10n.2n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	29.183	1.13	328.07	4.831	701	!ANT-AFR	C11n.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	30.977	1.09	328.04	5.296	701	!ANT-AFR	C12n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	33.726	1.02	328.00	6.093	701	!ANT-AFR	C13n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	35.102	0.99	327.98	6.442	701	!ANT-AFR	C15n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	35.774	0.98	327.97	6.607	701	!ANT-AFR	C16n.2n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	36.573	0.96	327.95	6.795	701	!ANT-AFR	C17n.1n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	38.398	0.92	327.92	7.201	701	!ANT-AFR	C18n.1 y	DeMets et al., 2021 10.1093/gji/ggab107
+802	40.073	0.88	327.89	7.573	701	!ANT-AFR	C18n.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	41.180	0.85	327.87	7.802	701	!ANT-AFR	C19n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	42.196	0.82	327.84	8.039	701	!ANT-AFR	C20n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	43.450	0.78	327.82	8.286	701	!ANT-AFR	C20n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	46.235	4.64	324.85	8.649	701	!ANT-AFR	C21n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	47.760	9.47	321.11	8.838	701	!ANT-AFR	C21n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	48.878	9.51	320.64	9.002	701	!ANT-AFR	C22n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	49.666	9.46	320.36	9.121	701	!ANT-AFR	C22n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	50.767	9.38	319.96	9.291	701	!ANT-AFR	C23n y	DeMets et al., 2021 10.1093/gji/ggab107
+802	51.724	9.32	319.62	9.437	701	!ANT-AFR	C23n.2n o	DeMets et al., 2021 10.1093/gji/ggab107
+802	51.724	13.41	-42.81	9.178	709	!ANT-SOM	C23n.2n o	cross-over to Somalia, this study
+802	53.900	7.60	-39.57	9.98	709	!ANT-SOM	C24n.3n o	Cande & Patriat (2015)
+802	58.959	6.69	-42.74	10.58	709	!ANT-SOM	C26n y	Cande & Patriat (2015)
+802	63.537	3.81	-43.67	11.17	709	!ANT-SOM	C28n y	Cande & Patriat (2015)
+802	68.351	0.64	-43.29	11.98	709	!ANT-SOM	C31n y	Cande & Patriat (2015)
+802	71.451	-3.27	-41.14	12.83	709	!ANT-SOM	C32n.1n y	Cande & Patriat (2015)
+802	74.201	-5.38	-39.54	13.91	709	!ANT-SOM	C33n y	Cande & Patriat (2015)
+802	79.900	-3.27	-39.79	15.98	709	!ANT-SOM	C33n o	Cande & Patriat (2015)
+802	83.650	-1.35	-39.52	17.82	709	!ANT-SOM	C34n y	Cande & Patriat (2015)
+802	102.00	-2.32	-33.32	28.09	709	!ANT-SOM		Mueller & Jokat (2019)
+802	113.00	-6.74	-28.95	34.57	709	!ANT-SOM		Mueller & Jokat (2019)
+802	121.40	-10.41	-26.02	41.09	709	!ANT-SOM	M0ro	Mueller & Jokat (2019)
+802	124.53	-9.55	-27.19	42.30	709	!ANT-SOM	M3n m	Mueller & Jokat (2019)
+802	126.63	-9.36	-27.58	43.01	709	!ANT-SOM	M5n m	Mueller & Jokat (2019)
+802	129.10	-8.86	-28.44	43.21	709	!ANT-SOM	M8n m	Mueller & Jokat (2019)
+802	130.50	-8.93	-28.71	43.65	709	!ANT-SOM	M10n m	Mueller & Jokat (2019)
+802	133.12	-8.89	-29.17	44.42	709	!ANT-SOM	M11n m	Mueller & Jokat (2019)
+802	136.34	-8.99	-29.57	44.96	709	!ANT-SOM	M13n m	Mueller & Jokat (2019)
+802	139.42	-8.58	-30.20	46.64	709	!ANT-SOM	M16n m	Mueller & Jokat (2019)
+802	141.60	-8.20	-30.20	47.86	709	!ANT-SOM	M17r m	Mueller & Jokat (2019)
+802	145.02	-7.41	-30.99	49.17	709	!ANT-SOM	M20n.2n m	Mueller & Jokat (2019)
+802	148.08	-7.00	-31.46	50.30	709	!ANT-SOM	M22n.1n m	Mueller & Jokat (2019)
+802	149.07	-6.74	-31.71	50.88	709	!ANT-SOM	M22r m	Mueller & Jokat (2019)
+802	153.15	-6.45	-31.96	52.67	709	!ANT-SOM	M25n m	Mueller & Jokat (2019)
+802	155.88	-6.55	-32.30	53.59	709	!ANT-SOM	M28Ar m	Mueller & Jokat (2019)
+802	157.43	-6.63	-32.42	53.87	709	!ANT-SOM	M30n m	Mueller & Jokat (2019)
+802	158.93	-6.70	-32.57	54.23	709	!ANT-SOM	M33n	Mueller & Jokat (2019)
+802	162.87	-7.02	-32.97	55.05	709	!ANT-SOM	M38n.2n m	Mueller & Jokat (2019)
+802	177	-7.79	-33.86	56.72	709	!ANT-SOM		Mueller & Jokat (2019)
+802	182	-7.96	-33.86	56.91	709	!ANT-SOM		Mueller & Jokat (2019)
+802	330	-7.96	-33.86	56.91	709	!ANT-SOM		
+803	0	0	0	0	802	!AP-ANT		
+803	140	0	0	0	802	!AP-ANT		Van de Lagemaat et al. (2021)
+804	0	0	0	0	802	!MBL-ANT		
+804	11.06	0	0	0	802	!MBL-ANT	C5n.2n o	Granot and Dyment (2018)
+804	25.99	67.05	-109.47	-0.57	802	!MBL-ANT	C8n.2n o	Granot and Dyment (2018)
+804	30.98	-84.78	-169.01	1.33	802	!MBL-ANT	C12n o	Granot et al. (2013a; 2013b)
+804	33.73	-81.09	-159.63	3.17	802	!MBL-ANT	C13n o	Granot et al. (2013a; 2013b)
+804	40.07	-85.87	-139.51	4.48	802	!MBL-ANT	C18n.2n o	Granot et al. (2013a; 2013b)
+804	43.45	-18.15	-17.85	1.7	802	!MBL-ANT	C20n o	Cande and Stock (2004; GMS)
+804	53.9	-18.15	-17.85	1.7	802	!MBL-ANT	C24n.3n o	Cande and Stock (2004; GMS)
+804	62.28	-18.15	-17.85	2.2	802	!MBL-ANT	C27ny	Cande and Stock (2004; GMS)
+804	83.65	-18.15	-17.85	2.2	802	!MBL-ANT		Van de Lagemaat et al. (2021)
+901	0	0	0	0	804	!PAC-MBL		
+901	0.77	64.303	-81.212	0.676	804	!PAC-MBL	C1n o	Croon et al. (2008)
+901	1.86	64.901	-81.138	1.606	804	!PAC-MBL	C2n m	Croon et al. (2008)
+901	2.6	65.204	-81.225	2.227	804	!PAC-MBL	C2An.1n y	Croon et al. (2008)
+901	3.6	65.897	-81.165	3.109	804	!PAC-MBL	C2An.3n o	Croon et al. (2008)
+901	4.24	66.624	-80.533	3.702	804	!PAC-MBL	C3n.1n m	Croon et al. (2008)
+901	5.12	66.909	-80.658	4.48	804	!PAC-MBL	C3n.4n m	Croon et al. (2008)
+901	6.02	67.091	-81.081	5.211	804	!PAC-MBL	C3An.1n y	Croon et al. (2008)
+901	6.73	67.331	-81.202	5.808	804	!PAC-MBL	C3An.2n o	Croon et al. (2008)
+901	7.91	68.162	-80.54	6.83	804	!PAC-MBL	C4n.2n m	Croon et al. (2008)
+901	8.94	68.833	-79.969	7.639	804	!PAC-MBL	C4An m	Croon et al. (2008)
+901	9.79	69.707	-78.566	8.417	804	!PAC-MBL	C5n.1n y	Croon et al. (2008)
+901	11.06	70.356	-77.813	9.481	804	!PAC-MBL	C5n.2n o	Croon et al. (2008)
+901	12.37	71.293	-76.115	10.631	804	!PAC-MBL	C5An.2n m	Croon et al. (2008)
+901	13.11	71.746	-75.122	11.283	804	!PAC-MBL	C5AAn m	Croon et al. (2008)
+901	14.39	72.381	-73.576	12.42	804	!PAC-MBL	C5ADn m	Croon et al. (2008)
+901	15.1	72.601	-73.192	13.012	804	!PAC-MBL	C5Bn.2n m	Croon et al. (2008)
+901	16.12	72.974	-72.498	13.948	804	!PAC-MBL	C5Cn.1n m	Croon et al. (2008)
+901	16.63	73.181	-72.032	14.344	804	!PAC-MBL	C5Cn.3n m	Croon et al. (2008)
+901	17.38	73.394	-71.58	14.929	804	!PAC-MBL	C5Dn m	Croon et al. (2008)
+901	18.01	73.617	-70.909	15.418	804	!PAC-MBL	C5En y	Croon et al. (2008)
+901	18.64	73.712	-70.936	15.946	804	!PAC-MBL	C6n y	Croon et al. (2008)
+901	19.54	74.001	-70.157	16.727	804	!PAC-MBL	C6n o	Croon et al. (2008)
+901	20.61	74.133	-70.089	17.381	804	!PAC-MBL	C6An.2n m	Croon et al. (2008)
+901	22.34	74.385	-69.727	18.675	804	!PAC-MBL	C6Bn.2n o	Croon et al. (2008)
+901	23.27	74.482	-69.581	19.347	804	!PAC-MBL	C6Cn.3n m	Croon et al. (2008)
+901	24.12	74.509	-69.664	19.923	804	!PAC-MBL	C7n.2n y	Croon et al. (2008)
+901	25.1	74.499	-69.836	20.625	804	!PAC-MBL	C8n.1n y	Croon et al. (2008)
+901	25.99	74.511	-69.806	21.175	804	!PAC-MBL	C8n.2n o	Croon et al. (2008)
+901	26.42	74.455	-69.9	21.531	804	!PAC-MBL	C9n y	Croon et al. (2008)
+901	27.44	74.401	-69.747	22.234	804	!PAC-MBL	C9n o	Croon et al. (2008)
+901	27.86	74.407	-69.504	22.575	804	!PAC-MBL	C10n.1n y	Croon et al. (2008)
+901	28.28	74.33	-69.543	22.953	804	!PAC-MBL	C10n.2n o	Croon et al. (2008)
+901	29.18	74.378	-68.714	23.662	804	!PAC-MBL	C11n.1n y	Croon et al. (2008)
+901	29.97	74.329	-68.43	24.232	804	!PAC-MBL	C11n.2n o	Croon et al. (2008)
+901	30.59	74.366	-67.75	24.708	804	!PAC-MBL	C12n y	Croon et al. (2008)
+901	30.98	74.32	-67.593	25.058	804	!PAC-MBL	C12n o	Croon et al. (2008)
+901	33.21	74.444	-64.739	26.969	804	!PAC-MBL	C13n y	Croon et al. (2008)
+901	33.73	74.479	-64.015	27.395	804	!PAC-MBL	C13n o	Croon et al. (2008)
+901	35.1	74.621	-61.886	28.395	804	!PAC-MBL	C15n y	Croon et al. (2008)
+901	35.34	74.634	-61.485	28.615	804	!PAC-MBL	C15n o	Croon et al. (2008)
+901	35.77	74.702	-60.18	29.234	804	!PAC-MBL	C16n.2n y	Croon et al. (2008)
+901	36.35	74.75	-59.047	29.808	804	!PAC-MBL	C16n.2n o	Croon et al. (2008)
+901	36.57	74.763	-58.638	30.049	804	!PAC-MBL	C17n.1n y	Croon et al. (2008)
+901	37.39	74.816	-57.44	30.678	804	!PAC-MBL	C17n.1n o	Croon et al. (2008)
+901	38.4	74.855	-56.211	31.411	804	!PAC-MBL	C18n.1n y	Croon et al. (2008)
+901	40.07	74.868	-54.46	32.62	804	!PAC-MBL	C18n.2n o	Croon et al. (2008)
+901	41.11	74.859	-53.254	33.532	804	!PAC-MBL	C19n m	Croon et al. (2008)
+901	42.2	74.856	-52.225	34.217	804	!PAC-MBL	C20n y	Croon et al. (2008)
+901	43.45	74.775	-51.61	35.288	804	!PAC-MBL	C20n o	Croon et al. (2008)
+901	47.76	74.431	-48.544	38.176	804	!PAC-MBL	C21n o	Wright et al. (2015)
+901	53.9	73.474	-52.081	40.105	804	!PAC-MBL	C24n.3n o	Wright et al. (2015)
+901	57.38	72.627	-54.727	41.142	804	!PAC-MBL	C25n m	Wright et al. (2015)
+901	59.24	72.317	-54.189	42.531	804	!PAC-MBL	C26n o	Wright et al. (2015)
+901	62.53	71.348	-54.157	45.498	804	!PAC-MBL	C27o	Wright et al. (2015)
+901	68.18	68.941	-56.594	49.007	804	!PAC-MBL	C30o	Wright et al. (2015)
+901	74.2	66.631	-57.357	52.776	804	!PAC-MBL	C33y	Wright et al. (2016)
+901	83.65	63.6	-58.1	58.8	804	!PAC-MBL	C34y	Wright et al. (2016)
+911	0	0	0	0	901	!NAZ-PAC		
+911	5	60.08	-91.23	-7.13	901	!NAZ-PAC		Tebbens and Cande (1997); Wright et al. (2016)
+911	11.06	63.42	-91.82	-16.54	901	!NAZ-PAC	C5n.2n o	Tebbens and Cande (1997); Wright et al. (2016)
+911	15	64.98	-91.73	-22.83	901	!NAZ-PAC		Tebbens and Cande (1997); Wright et al. (2016)
+911	19.55	62.38	-93.02	-31.01	901	!NAZ-PAC	C6n o	Tebbens and Cande (1997)
+911	22.34	63.42	-94.11	-35.51	901	!NAZ-PAC	C6Bn.2n o	Tebbens and Cande (1997); Wright et al. (2016)
+2007	0	0	0	0	2001	!CAR-ECT		
+2007	49.666	0	0	0	2001	!CAR-ECT		Leroy et al. (2000)
+2001	0	0	0	0	2024	!ECT-SCU		
+2001	6.023	-68.84	-50.09	0.82	2024	!ECT-SCU	C3An.1n y	Leroy et al. (2000); Boschman et al. (2014)
+2001	11.056	-69.75	-55.09	1.53	2024	!ECT-SCU	C5n.2n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	19.535	-69.2	-51.93	2.99	2024	!ECT-SCU	C6n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	25.987	-52.11	-62.14	4.12	2024	!ECT-SCU	C8n.2n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	33.726	-36.02	-68.74	6.45	2024	!ECT-SCU	C13n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	43.450	-39.71	-67.37	8.05	2024	!ECT-SCU	C20n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	49.666	-42.54	-66.71	8.81	2024	!ECT-SCU	C22n o	Leroy et al. (2000); Boschman et al. (2014)
+2001	200	-42.54	-66.71	8.81	2024	!ECT-SCU		Leroy et al. (2000); Boschman et al. (2014)
+2024	0	0	0	0	101	!SCU-NAM		Leroy et al. (2000); Boschman et al. (2014)
+2024	38.0	0	0	0	101	!SCU-NAM		Leroy et al. (2000); Boschman et al. (2014)
+2024	200.0	0	0	0	101	!SCU-NAM		Leroy et al. (2000); Boschman et al. (2014)
+1000	0	0	0	0	701	!Mueller et al. (1993) hotspot reference frame
+1000	10.9	59.3	-31.6	1.89	701	!Mueller et al. (1993) hotspot reference frame
+1000	20.1	50.9	-44.5	4.36	701	!Mueller et al. (1993) hotspot reference frame
+1000	33.1	40.3	-43.0	7.91	701	!Mueller et al. (1993) hotspot reference frame
+1000	40.1	37.7	-41.2	9.65	701	!Mueller et al. (1993) hotspot reference frame
+1000	47.9	32.8	-40.8	12.09	701	!Mueller et al. (1993) hotspot reference frame
+1000	55.9	30.1	-41.7	13.89	701	!Mueller et al. (1993) hotspot reference frame
+1000	67.7	26.4	-40.9	16.23	701	!Mueller et al. (1993) hotspot reference frame
+1000	73.0	22.3	-39.6	17.80	701	!Mueller et al. (1993) hotspot reference frame
+1000	79.1	18.0	-38.9	19.98	701	!Mueller et al. (1993) hotspot reference frame
+1000	83.5	19.0	-40.9	21.53	701	!Mueller et al. (1993) hotspot reference frame
+1000	89.9	19.4	-41.9	23.31	701	!Mueller et al. (1993) hotspot reference frame
+1000	100.5	18.9	-39.5	25.35	701	!Mueller et al. (1993) hotspot reference frame
+1000	111.1	17.7	-39.5	26.71	701	!Mueller et al. (1993) hotspot reference frame
+1000	120.4	18.7	-39.7	27.37	701	!Mueller et al. (1993) hotspot reference frame
+1000	130.7	16.7	-37.5	28.52	701	!Mueller et al. (1993) hotspot reference frame
