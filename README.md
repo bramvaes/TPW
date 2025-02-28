@@ -4,7 +4,7 @@
 
 This manuscript was published in *AGU Advances* in 2025:
 
-Vaes, B. & van Hinsbergen, D. J. (2025). Slow true polar wander around varying equatorial axes since 320 Ma. AGU Advances.
+Vaes, B. & van Hinsbergen, D. J. J. (2025). Slow true polar wander around varying equatorial axes since 320 Ma. AGU Advances.
 
 -------
 Repo for the data files and Python codes used to compute the magnitude, rate, and direction of true polar wander (TPW) during the last 320 Ma.
